@@ -61,7 +61,7 @@ function SingleProduct() {
       {!product ? (
         <h2>查無產品資料</h2>
       ) : (
-        <div className="container mt-3">
+        <div className="container p-4">
           <div className="row">
             <div className="" style={{ width: "18rem" }}>
               <div className="card">
